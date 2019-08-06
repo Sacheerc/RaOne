@@ -36,6 +36,7 @@ captures/
 
 # IntelliJ
 *.iml
+.idea/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -80,3 +81,5 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+android/Android_NodeMCU_App/.idea/misc.xml
+android/Android_NodeMCU_App/.idea/caches/build_file_checksums.ser
